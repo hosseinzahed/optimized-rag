@@ -1,0 +1,21 @@
+FICTION: Nimbus AI Learns to Listen
+
+Nimbus AI was a fictional global technology company known for a translation assistant called Bridge. By 2035, Bridge handled dozens of widely spoken languages, but it struggled with Selari, a language spoken in the fictional coastal region of Aven. The assistant often translated Selari fishing terms into unrelated business phrases, and its pronunciation feature flattened several sounds that speakers considered distinct.
+
+Teacher Davi Ren noticed the mistakes when students used Bridge to prepare a bilingual exhibition. One label described a traditional wooden boat as a shipping invoice. Davi corrected the label, but the episode raised a larger question: whose language did the system represent, and who had been asked before it was trained?
+
+Nimbus's published documentation said that Bridge relied on licensed material, public websites, and contributions from language partners. It did not identify which Selari sources were used or explain how speakers could challenge an incorrect translation. Davi contacted the company through a local university and requested a meeting rather than simply sending a list of errors.
+
+At the meeting, Nimbus researchers acknowledged that Selari had far fewer evaluated examples than the system's major languages. The training collection included public tourist brochures, but few conversations or technical explanations. That imbalance helped explain why Bridge handled restaurant menus better than school materials and maritime terminology. The researchers could not reconstruct every example's influence, but they could document the sources still present in the current training inventory.
+
+Community representatives agreed to consider a pilot under conditions they set. Participation had to be voluntary, recordings could not be reused for unrelated products without separate permission, and contributors had to be paid. A local language council would approve the categories of material to collect. It excluded family stories and ceremonial speech because those materials were not appropriate for a commercial dataset.
+
+The pilot recruited thirty adult speakers from three parts of Aven. Each participant reviewed a consent form in Selari and another language of their choice. Contributors recorded ordinary public-service phrases, weather descriptions, and explanations of fishing equipment. They could withdraw their unpublished recordings during the collection period. Nimbus kept a separate record of each participant's permissions and removed direct identifiers from the material used by engineers.
+
+The evaluation exposed disagreements that a simple accuracy score would have hidden. Speakers from the northern coast preferred one term for a tidal channel, while southern speakers used another. Both were valid. Instead of forcing a single answer, the revised interface labeled regional variants when the context supported them. Where the source sentence did not provide enough context, Bridge offered two translations and a note rather than presenting one as certain.
+
+The team also created a public test set of 600 sentences that contributors had agreed could be shared. An independent university group checked the evaluation process. On that set, the revised system improved from 62 percent to 84 percent acceptable translations according to a review by two speakers per sentence, with disagreements resolved by a third reviewer. Nimbus cautioned that the score did not establish equivalent performance in medical, legal, or emergency settings.
+
+Before the public release, Davi's students repeated their exhibition exercise. Bridge translated the boat label correctly and flagged one unfamiliar term for human review. The students still edited every label, but they spent less time undoing confident mistakes.
+
+Nimbus renewed the pilot for another year with a published budget and a community oversight meeting every quarter. The language council retained the ability to decline proposed data categories. Davi described the result as a beginning rather than a victory: a translation tool had improved because its makers treated speakers as partners, not merely as a source of examples.

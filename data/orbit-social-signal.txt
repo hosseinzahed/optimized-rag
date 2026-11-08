@@ -1,0 +1,21 @@
+FICTION: Orbit Social's Quiet Signal
+
+Orbit Social was a fictional giant in the world of online communication. Its platform connected neighborhood groups, professional communities, and millions of individual users. In 2036, Orbit introduced a feature called Pulse that ranked posts in a community feed according to predicted engagement. Within weeks, moderators in the fictional city of Riverton noticed that arguments about minor street closures were appearing above practical updates about bus diversions.
+
+The ranking system had not been designed to favor arguments. It predicted whether people would reply, react, or share, and it treated each action as evidence that a post was useful. A contentious post often generated many replies, including replies asking people to stop arguing. Pulse counted those responses as engagement without distinguishing their purpose.
+
+Riverton moderator Leena Ortiz compared the feed with the group's chronological view. On a day when a water main broke, a heated discussion about parking occupied the first three positions, while the official repair notice appeared much lower. Leena saved a record of the ranking, the times of the posts, and the settings used by the group. She sent the evidence to Orbit through its moderator support channel.
+
+An Orbit product manager formed a review team with ranking engineers, accessibility specialists, and moderators from several communities. They found that the problem was not unique to Riverton, although its severity varied. Groups with frequent practical announcements were especially sensitive to rankings that rewarded long threads. The team decided against a blanket ban on controversial posts because disagreement was often legitimate and useful.
+
+Instead, Orbit designed a feature called Quiet Signal. Verified group moderators could mark a limited number of posts as practical notices, such as a service interruption or a community meeting. Those notices received a separate, clearly labeled section above the ranked feed for a chosen period of up to forty-eight hours. Moderators could end a notice early, and members could still switch to a chronological view.
+
+To reduce misuse, the system recorded who applied the notice label and when it expired. A group could have at most three active notices at once. Members could report a notice as misleading, and Orbit's trust team would review reports under the existing community rules. The label did not assert that a post was true; it indicated that a moderator had designated it as a practical notice.
+
+Orbit tested the change with sixty volunteer groups. Half received Quiet Signal immediately, and half continued with their existing controls during the first six weeks. The company measured how often members opened verified service updates, whether they found the notices helpful in a survey, and how frequently moderators removed labels after complaints. The test did not use private messages or track members across unrelated websites.
+
+In the participating groups, service-update opens increased relative to the comparison groups. Survey responses were mixed: some members liked the predictable location, while others thought three notices could occupy too much space on a small screen. Orbit shortened the mobile display and added an option to collapse the section. The company published the aggregate results but did not claim that increased opens proved every reader had understood a notice.
+
+The pilot also caught an abuse attempt. One group repeatedly labeled a commercial promotion as a public notice. After member reports and a moderator appeal, Orbit removed the labels and temporarily limited that group's access to the feature. Its published review explained the action without disclosing the identities of individual reporters.
+
+When Quiet Signal became available more widely, Leena used it for the next scheduled water shutoff. Members still argued in the feed, but the practical notice remained easy to find. Orbit's team learned that better community design did not require eliminating disagreement. Sometimes it required giving time-sensitive information a place that an engagement score could not bury.
