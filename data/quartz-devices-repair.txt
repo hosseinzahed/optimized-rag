@@ -1,0 +1,21 @@
+FICTION: Quartz Devices Opens the Repair Ledger
+
+Quartz Devices, a fictional technology giant based in the city of Glenmere, sold the popular Tide line of tablets. The Tide 8 was praised for its long battery life, but repair shops complained that a failed battery controller could make the entire device refuse to charge. The controller was inexpensive; replacing the whole tablet was not.
+
+In 2033, independent technician Nara Bell began collecting examples from customers. She found twenty-seven Tide 8 tablets with the same charging fault across five repair shops. Quartz's diagnostic app labeled the problem only as a general power error. Authorized repair centers could see a more specific code, but independent shops could not access it. Customers faced a choice between mailing the tablet away for a full board replacement and buying a new device.
+
+Nara sent her findings to Quartz's product team. The company initially argued that restricting diagnostic details protected customers from unsafe repairs. Its safety engineers had a real concern: a damaged lithium battery could overheat if handled incorrectly. Nara replied that hiding the difference between a damaged battery and a faulty controller made it harder, not easier, to make a safe decision.
+
+Quartz convened a working group with independent technicians, battery specialists, customer advocates, and its own security team. The group examined three options: publish every internal service instruction, maintain the existing restricted system, or release a reviewed set of diagnostics and procedures. The third option won support because it could give shops useful information while identifying operations that required special equipment.
+
+The resulting program was called the Repair Ledger. It provided a public guide to Tide 8 error codes, photographs of common faults, and a decision tree that directed technicians to stop work if a battery was swollen or punctured. Shops could purchase replacement controllers and calibrated tools without joining Quartz's authorized network. Customers could also access a checklist explaining how to back up data and prepare a device for service.
+
+The security team identified another complication. A replacement controller needed to be paired with the tablet's firmware so that charging limits remained correct. Earlier prototypes required a shop to upload the customer's account identifier to Quartz. Privacy advocates objected, so engineers redesigned the pairing process around a short-lived device-generated code. The service recorded the controller model and outcome, but not the customer's name or account identifier.
+
+Quartz piloted the ledger in twelve repair shops for ten weeks. Technicians completed 184 eligible controller replacements. Seven attempts were stopped because inspections found unsafe battery damage, and those devices were routed to certified hazardous-material handlers. Three replacements initially failed because a firmware update had changed the pairing sequence. Quartz corrected the guide and added a version check to its diagnostic app.
+
+The company published the pilot figures along with the limits of the data. The participating shops had volunteered, so their results did not prove that every repair shop would achieve the same outcome. Quartz also explained that controller replacement remained inappropriate for tablets with structural damage or liquid corrosion. Those cases required separate assessment.
+
+Nara welcomed the change but continued to push for broader parts availability. A controller was only one component, and the program did not cover older Tide models. Quartz committed to reviewing additional devices every six months and publishing its decisions with reasons.
+
+For customers, the immediate difference was practical. A person with a qualifying fault could compare local repair options, understand why a technician might stop work, and retain the same tablet when a safe repair succeeded. The ledger did not make repair effortless, but it replaced a vague error message with an accountable process.
